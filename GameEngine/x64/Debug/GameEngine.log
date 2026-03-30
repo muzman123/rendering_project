@@ -1,0 +1,22 @@
+﻿  GameEngine.cpp
+C:\Users\muzam\source\repos\GameEngine\GameEngine\renderer\PerlinNoise.h(18,16): warning C4309: 'default argument': truncation of constant value
+  (compiling source file 'GameEngine.cpp')
+  
+  Engine.cpp
+C:\Users\muzam\source\repos\GameEngine\GameEngine\renderer\PerlinNoise.h(18,16): warning C4309: 'default argument': truncation of constant value
+  (compiling source file 'core/Engine.cpp')
+  
+  Renderer.cpp
+C:\Users\muzam\source\repos\GameEngine\GameEngine\renderer\PerlinNoise.h(18,16): warning C4309: 'default argument': truncation of constant value
+  (compiling source file 'renderer/Renderer.cpp')
+  
+  Terrain.cpp
+C:\Users\muzam\source\repos\GameEngine\GameEngine\renderer\PerlinNoise.h(18,16): warning C4309: 'default argument': truncation of constant value
+  (compiling source file 'renderer/Terrain.cpp')
+  
+  TerrainManager.cpp
+C:\Users\muzam\source\repos\GameEngine\GameEngine\renderer\PerlinNoise.h(18,16): warning C4309: 'default argument': truncation of constant value
+  (compiling source file 'renderer/TerrainManager.cpp')
+  
+  Generating Code...
+  GameEngine.vcxproj -> C:\Users\muzam\source\repos\GameEngine\x64\Debug\GameEngine.exe
